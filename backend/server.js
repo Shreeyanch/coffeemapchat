@@ -14,7 +14,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(
   cors({
     origin: (origin, callback) => {
-      if (!origin || origin === "http://localhost:3000") {
+      if (!origin || origin === "https://coffeemapchat.vercel.app/") {
         callback(null, true);
       } else {
         callback(new Error("Not allowed by CORS"));
