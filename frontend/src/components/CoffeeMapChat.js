@@ -326,9 +326,9 @@ export default function CoffeeMapChat() {
                 />
               </div>
               <p className="text-gray-900 text-base leading-relaxed">
-                heyyyy! I’m Yullah — a ☕️ coffee nerd on a mission. I’m
+                heyyyy! I’m Yullah a ☕️ coffee nerd on a mission. I’m
                 creating a physical coffee map of Kathmandu featuring the city’s
-                best cafés and hidden gems. These maps will be placed in cafés
+                best cafes and hidden gems. These maps will be placed in cafés
                 all around Kathmandu so everyone can easily discover amazing
                 coffee spots and support the local coffee community
               </p>
