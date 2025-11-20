@@ -50,7 +50,7 @@ export default function CoffeeMapChat() {
     setStage(6);
 
     try {
-      const res = await fetch("https://coffeemapchat-a2wu-mg0fs8q4z-shreeyanchs-projects.vercel.app/api/cafes", {
+      const res = await fetch("https://coffeemapchat-a2wu.vercel.app/api/cafes", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
